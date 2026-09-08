@@ -24,3 +24,4 @@ Backend authentication dapat disambungkan ke Supabase Auth pada tahap berikutnya
 ## Status
 Initial structure — implementasi UI dan fitur dilakukan bertahap menggunakan OpenCode.
 # DepnexProject-
+# Depnex-Landing-page-
